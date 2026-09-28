@@ -1,0 +1,8 @@
+Package: basalcellblank
+Title: BasalCellBlank
+Version: 0.1.0
+Authors@R: person("Yuji Okano", email = "yujiokano@keio.jp", role = c("aut", "cre"))
+Description: Just Generated via BasalCell
+Encoding: UTF-8
+License: UNLICENSED
+URL: https://basalcellblank.readthedocs.io/en/latest/r_api/
